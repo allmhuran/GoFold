@@ -4,7 +4,7 @@
 
 GoFold is an extension for SSMS 19.
 
-https://drive.google.com/file/d/1h_cvlkZKxp0LSaaZGvsQB9K-R_yxnVRd/view?usp=sharing
+![](https://drive.google.com/file/d/1h_cvlkZKxp0LSaaZGvsQB9K-R_yxnVRd/view?usp=sharing)
 
 ## What does it do?
 
@@ -15,8 +15,6 @@ It will look for batches in a query window and fold (collapse) each batch.
 The "GO" line will be folded along with the rest of the batch.
 
 Batches with two lines of text or less (not including the "GO" line) will not be folded.
-
-![](https://youtu.be/6P1lN0KeWeU)
 
 
 ## Installation
