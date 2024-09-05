@@ -15,7 +15,7 @@ The "GO" line will be folded along with the rest of the batch.
 
 Batches with two lines of text or less (not including the "GO" line) will not be folded.
 
-[https://youtu.be/6P1lN0KeWeU]
+![](https://youtu.be/6P1lN0KeWeU)
 
 
 ## Installation
