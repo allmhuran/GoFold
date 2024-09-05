@@ -1,17 +1,17 @@
 # GoFold
 
-##What is it?
+## What is it?
 
 GoFold is an extension for SSMS 19.
 
-##What does it do?
+## What does it do?
 
 GoFold makes code folding work properly in SSMS (or at least "properly" according to my preferences).
 It will look for batches in a query window and fold (collapse) each batch.
 The "GO" line will be folded along with the rest of the batch.
 Batches with two lines of text or less (not including the "GO" line) will not be folded.
 
-##The finer details
+## The finer details
 
 Only "GO" is currently recognised as a batch separator. If you change your batch separator in SSMS the folding will no longer work.
 The extension does not currently try to avoid finding "GO" lines in comments. If you have a line of text with just "GO" at the start of the line inside a comment, the comment will be folded up to and including the go.
