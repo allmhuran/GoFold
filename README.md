@@ -15,7 +15,7 @@ It will look for batches in a query window and fold (collapse) each batch.
 The first (non empty) line in the batch will remain visible. 
 The "GO" line will be folded along with the rest of the batch.
 
-Batches with two lines of text or less (not including the "GO" line) will not be folded.
+Batches with only one or two lines of text (not including the "GO" line) will not be folded.
 
 
 ## Installation
