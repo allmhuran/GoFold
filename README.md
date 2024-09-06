@@ -8,7 +8,7 @@ GoFold is an extension for SSMS 19 and SSMS 20.
 
 ## What does it do?
 
-GoFold makes code folding work properly in SSMS (or at least "properly" according to my preferences).
+GoFold makes code folding work properly* in SSMS (*according to my preferences).
 
 It will look for batches in a query window and fold (collapse) each batch.
 
