@@ -35,3 +35,11 @@ Only "GO" is currently recognised as a batch separator. If you change your batch
 
 The extension does not currently try to avoid finding "GO" lines in comments. If you have a line of text with just "GO" at the start of the line inside a comment, the comment will be folded up to and including the go.
 
+## Why does this exist?
+
+SSMS is apparently meant to be able to fold code "automatically", but it has never really worked for me.
+
+In addition, even when it does work the way it is supposed to, it collapses using begin/end blocks. But that's not typically very useful in T-SQL. Not all objects use (or even can use) begin/end blocks.
+
+To me it seems much more natural to fold at batch terminators, especially since I typically work in a deployment script containing multiple create or alter object statements.
+
