@@ -2,7 +2,7 @@
 
 ## What is it?
 
-GoFold is an extension for SSMS 19.
+GoFold is an extension for SSMS 19 and SSMS 20.
 
 ![test](https://drive.google.com/uc?export=view&id=1h_cvlkZKxp0LSaaZGvsQB9K-R_yxnVRd)
 
@@ -25,6 +25,8 @@ Unzip Alllmhuran.GoFold.zip into your SSMS extensions directory.
 Once unzipped you should have an \Extensions\Allmhuran.GoFold subdirectory.
 
 The default directory for SSMS 19 is C:\Program Files (x86)\Microsoft SQL Server Management Studio 19\Common7\IDE\Extensions
+
+The default directory for SSMS 20 is C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Extensions
 
 
 ## The finer details
