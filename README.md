@@ -43,3 +43,5 @@ In addition, even when it does work the way it is supposed to, it collapses usin
 
 To me it seems much more natural to fold at batch terminators, especially since I typically work in a deployment script containing multiple create or alter object statements.
 
+It is possible to manually hide code in SSMS by selecting a block of text and using edit > outlining > hide selection, (which is exactly the command that this addin will invoke) but this won't persist across file close/open, making it laborious.
+
