@@ -4,8 +4,6 @@
 
 GoFold is an extension for SSMS 19 and SSMS 20.
 
-//![test](https://drive.google.com/uc?export=view&id=1h_cvlkZKxp0LSaaZGvsQB9K-R_yxnVRd)
-
 ![animation](./gofold.gif)
 
 ## What does it do?
