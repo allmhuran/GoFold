@@ -20,7 +20,9 @@ Batches with only one or two lines of text (not including the "GO" line) will no
 
 ## Installation
 
-Unzip Alllmhuran.GoFold.zip into your SSMS extensions directory. 
+For GoFold22 (SSMS 22+) use the VSIX installer.
+
+For GoFold (SSMS 19,20) Unzip Alllmhuran.GoFold.zip into your SSMS extensions directory. 
 
 Once unzipped you should have an \Extensions\Allmhuran.GoFold subdirectory.
 
