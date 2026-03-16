@@ -1,10 +1,9 @@
 ﻿using System;
 using System.ComponentModel.Design;
-using Microsoft.VisualStudio.ComponentModelHost;
+using Microsoft.VisualStudio;
 using System.Globalization;
 using System.Threading;
 using System.Threading.Tasks;
-using Microsoft.VisualStudio.Editor;
 using Microsoft.VisualStudio.TextManager.Interop;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
