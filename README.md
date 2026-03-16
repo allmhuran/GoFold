@@ -2,7 +2,7 @@
 
 ## What is it?
 
-GoFold is an extension for SSMS 19 and SSMS 20.
+GoFold is an extension for SSMS (Separate releases are available for SSMS 19-20, and SSMS21+).
 
 <img src="./gofold.gif"/>
 
